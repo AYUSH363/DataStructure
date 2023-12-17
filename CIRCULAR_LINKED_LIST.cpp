@@ -32,6 +32,8 @@ public:
         }
     }
 
+
+
     void display() {
         if (!head) {
             cout << "List is empty." << endl;
